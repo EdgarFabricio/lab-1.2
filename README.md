@@ -1,5 +1,5 @@
 # lab-1.2
-In this repository I upload the following three challenges:
+In this repository I upload the following three challenges:\n
 Challenge 1: The code finds the first character that is not repeated in the whole String. For this time the String is provided inside the code. To find it a swept to the given String is performed comparing one character at a time.
 Challenge 2: For this program the user types numbers to create a list and the code sorts these numbers, also the user can ask for the median of the given list. In the code a menu is displayed so the user can decide between type a new number, get the current median or leave the execution.
 Challenge 3: This program generates a list of non-repeated random integers, using two parameters given, i.e. N and k, N represents the maximum value a number in this random list can take and k represents length of non-repeated random numbers. Ones we have this list, the program generates a random integer which is not in the generated list, all the possible numbers have the same probability of being chosen.
